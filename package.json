@@ -1,0 +1,27 @@
+{
+  "name": "node-fastify",
+  "version": "0.0.1",
+  "description": "Base docker config for a node based app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvincrespo/node-fastify.git"
+  },
+  "keywords": [
+    "node",
+    "fastify",
+    "docker"
+  ],
+  "author": "Alvin Crespo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvincrespo/node-fastify/issues"
+  },
+  "homepage": "https://github.com/alvincrespo/node-fastify#readme",
+  "dependencies": {
+    "fastify": "^2.11.0"
+  }
+}
